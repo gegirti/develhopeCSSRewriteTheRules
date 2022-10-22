@@ -1,0 +1,14 @@
+:root {
+background-color: rgb(164, 189, 164);
+}
+
+body {
+    color: darkslategray
+}
+
+.ball {
+    width: 250px;
+    height: 250px;
+    background-color: #8cf5db;
+    border-radius: 125px;
+}
