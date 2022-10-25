@@ -1,5 +1,5 @@
 :root {
-background-color: rgb(164, 189, 164);
+    --background-color: rgb(164, 189, 164);
 }
 
 body {
@@ -9,6 +9,6 @@ body {
 .ball {
     width: 250px;
     height: 250px;
-    background-color: #8cf5db;
+    background-color: var(--background-color);
     border-radius: 125px;
 }
